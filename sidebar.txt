@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[acn:home|Door43 (acn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-acn|d43-acn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-acn/archive/master.zip|d43-acn.zip]]
+
+**Recent Changes**
+{{changes>ns = acn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/acn|Ethnologue data]]
+
